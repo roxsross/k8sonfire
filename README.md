@@ -1,11 +1,12 @@
 [![Comprar](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/roxsross)
 
 [![Discord](https://img.shields.io/discord/729672926432985098?style=social&label=Discord&logo=discord)](https://discord.gg/5fqHuBq6pf)
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCxPD7bsocoAMq8Dj18kmGyQ?style=social)](https://www.youtube.com/channel/UCa-FcaB75ZtqWd1YCWW6INQ?sub_confirmation=1)
 
 # kubernetes fundamentals | k8sonfire 🔥 🔥 
 ## by @roxsross
 
-Gestionar una aplicación sobre contenedores es estar onfire.
+📌 Gestionar una aplicación sobre contenedores es estar onfire.
 
 Kubernetes es un software de orquestación de contenedores desarrollado
 inicialmente por Google, pero que hoy en día es un proyecto libre
@@ -22,7 +23,7 @@ producción de aplicaciones sobre contenedores, haciendo énfasis en la
 arquitectura de la aplicación, la actualización de versiones, la
 escalabilidad, etc.
 
-Apuntando a estos Objetivos:
+⚡ Apuntando a estos Objetivos:
 
 * Conocer las diferencias entre aplicaciones en función de su
   arquitectura
@@ -49,7 +50,7 @@ Apuntando a estos Objetivos:
           * [Challenge-02](../k8sonfire/challenge/02/actividad2.md)
           * [Challenge-03](../k8sonfire/challenge/03/actividad3.md)     
 
-* Se actualiza contenido a medida que avance el curso de kubernetes fundamentals
+### 🔔 Importante: Se actualiza contenido a medida que avance el curso de kubernetes fundamentals
 
 ## Contribuciones
 
