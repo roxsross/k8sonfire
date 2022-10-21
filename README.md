@@ -38,6 +38,8 @@ escalabilidad, etc.
         * [Intro Kubernetes](../k8sonfire/kubernetes/01/introk8s.md)
         * [Arquitectura básica de Kubernetes](../k8sonfire/kubernetes/01/arquitecturak8s.md)
         * [Como vencer a k8s](../k8sonfire/kubernetes/01/retok8s.md)
+        * [Comandos básicos k8s -1](../k8sonfire/doc/kubernetes-comandos-basicos-1.png)
+        * [Comandos básicos k8s -2](../k8sonfire/doc/kubernetes-comandos-basicos-2.png)
   1. Instalación de Kubernetes 
         * [Instalación kubectl](../k8sonfire/kubernetes/01/kubectl.md)
         * [Instalación minikube](../k8sonfire/kubernetes/01/minikube.md)
@@ -46,11 +48,13 @@ escalabilidad, etc.
 
   1. Contenedores en Kubernetes: Pods 
           * [Pod](../k8sonfire/kubernetes/02/pod.md)
+          * [Probando un pod](../k8sonfire/kubernetes/02/probando_un_pod.md)
           * [Conociendo los pod](../k8sonfire/kubernetes/02/gestionando_pod.md)
           * [Challenge-02](../k8sonfire/challenge/02/actividad2.md)
           * [Challenge-03](../k8sonfire/challenge/03/actividad3.md)     
 
 ### 🔔 Importante: Se actualiza contenido a medida que avance el curso de kubernetes fundamentals
+
 
 ## Contribuciones
 
