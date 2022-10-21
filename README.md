@@ -47,11 +47,11 @@ escalabilidad, etc.
         * [Challenge-01](../k8sonfire/challenge/01/actividad1.md) 
 
   1. Contenedores en Kubernetes: Pods 
-          * [Pod](../k8sonfire/kubernetes/02/pod.md)
-          * [Probando un pod](../k8sonfire/kubernetes/02/probando_un_pod.md)
-          * [Conociendo los pod](../k8sonfire/kubernetes/02/gestionando_pod.md)
-          * [Challenge-02](../k8sonfire/challenge/02/actividad2.md)
-          * [Challenge-03](../k8sonfire/challenge/03/actividad3.md)     
+        * [Pod](../k8sonfire/kubernetes/02/pod.md)
+        * [Probando un pod](../k8sonfire/kubernetes/02/probando_un_pod.md)
+        * [Conociendo los pod](../k8sonfire/kubernetes/02/gestionando_pod.md)
+        * [Challenge-02](../k8sonfire/challenge/02/actividad2.md)
+        * [Challenge-03](../k8sonfire/challenge/03/actividad3.md)     
 
 ### 🔔 Importante: Se actualiza contenido a medida que avance el curso de kubernetes fundamentals
 
