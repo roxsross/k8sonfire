@@ -22,7 +22,7 @@ Veamos dos ejemplos concretos:
 
 Veamos un pequeño ejemplo de un Pod multicontenedor:
 
-Tenemos la definición del Pod en el fichero [`pod-multicontenedor.yaml`](../files/pod-multicontenedor.yaml):
+Tenemos la definición del Pod en  [`pod-multicontenedor.yaml`](../files/pod-multicontenedor.yaml):
 
 ```yaml
 apiVersion: v1
@@ -60,16 +60,16 @@ Para realizar el desafio realiza los siguientes pasos:
 
 1. Crea el Pod.
 2. Muestra la información del Pod, y fíjate que el Pod está formado por un volumen y dos contenedores.
-3. Muestra el contenido del fichero `index.html` en el primer contenedor, ejecutando:
+3. Muestra el contenido del archivo `index.html` en el primer contenedor, ejecutando:
 
         kubectl exec pod-multicontenedor -c contenedor1 -- /bin/cat /usr/share/nginx/html/index.html
 
     En esta ocasión hay que indicar el contenedor (opción `-c`) para indicar en que contenedor vamos a ejecutar la instrucción.
-4. Muestra el contenido del fichero `index.html` en el segundo contenedor, ejecutando:
+4. Muestra el contenido del archivo `index.html` en el segundo contenedor, ejecutando:
 
         kubectl exec pod-multicontenedor -c contenedor2 -- /bin/cat /html/index.html
 5. Ejecuta un "port forward" para acceder al Pod en el puerto 8081 de localhost, sabiendo que el servicio usa el puerto 80.
-6. Accede desde un navegador para ver el resultado. Refresca la página para observar cómo va cambiando el fichero `index.html`.
+6. Accede desde un navegador para ver el resultado. Refresca la página para observar cómo va cambiando el archivo `index.html`.
 
 Para superar el desafio deberás entregar en un unico repositorio de github en formato [markdown](https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax):
 
