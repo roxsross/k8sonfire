@@ -2,7 +2,8 @@
 
 [![Discord](https://img.shields.io/discord/729672926432985098?style=social&label=Discord&logo=discord)](https://discord.gg/5fqHuBq6pf)
 
-# kubernetes fundamentals | k8sonfire 🔥 🔥 🔥 🔥 | by @roxsross
+# kubernetes fundamentals | k8sonfire 🔥 🔥 
+## by @roxsross
 
 Gestionar una aplicación sobre contenedores es estar onfire.
 
