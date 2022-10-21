@@ -54,7 +54,7 @@ spec:
 
 Estudiemos la definición del Pod:
 
-![pod_multicontenedor](../../assets/pod_multicontenedor.png)
+![pod_multicontenedor](assets/pod_multicontenedor.png)
 
 Para realizar el desafio realiza los siguientes pasos:
 

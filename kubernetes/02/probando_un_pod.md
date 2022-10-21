@@ -9,7 +9,7 @@ De esta forma se crea un Pod con un contenedor que utiliza la imagen `nginx:late
 
 Un Pod tiene otros muchos parámetros asociados, que en este caso quedarán sin definir o Kubernetes asumirá los valores por defecto. 
 
-Un ejemplo podría ser el contenido  [`pod.yaml`](../02/files/pod.yaml):
+Un ejemplo podría ser el contenido  [`pod.yaml`](files/pod.yaml):
 
 ```yaml
 apiVersion: v1 # required

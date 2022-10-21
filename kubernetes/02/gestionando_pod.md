@@ -1,6 +1,6 @@
 # Gestionando y Venciendo a los Pods
 
-Tenemos un [`pod.yaml`](../02/files/pod.yaml), donde hemos definido
+Tenemos un [`pod.yaml`](files/pod.yaml), donde hemos definido
 un Pod de la siguiente manera:
 
 ```yaml
