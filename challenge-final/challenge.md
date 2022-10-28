@@ -8,6 +8,7 @@ Para exponer la API se creó un servicio tipo NodePort el cual expone un puerto 
 **Requisitos**
 
 - Cluster de k8s (EKS)/minikube/k3s/etc
+- Alternativa Killercoda
 - Docker
 - kubectl
 
@@ -21,6 +22,8 @@ Para exponer la API se creó un servicio tipo NodePort el cual expone un puerto 
 - Service de tipo Nodeport
 - Aplicarlos en el cluster eks
 - Tips: La app corre sobre el port=8000 y el consumer necesita http://service-flask-app
+- Pantallazo de los resultados
+- En Clases *live* tienen que desplegar su desafio
 
 
 **Resultados**

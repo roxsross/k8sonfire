@@ -57,16 +57,16 @@ escalabilidad, etc.
         * [Replicaset](/kubernetes/03/rs.md)
         * [Probando un Replicaset](kubernetes/03/probando_rs.md)
         * [Conociendo los replicaset](kubernetes/03/gestionando_rs.md)
-        * [Challenge-04](challenge/03/actividad4.md)  
+        * [Challenge-04](challenge/04/actividad4.md)  
       
   1. Despliegues onfire: Deployment
         * [Deployment](/kubernetes/04/deploy.md)
         * [Probando un Deployment](kubernetes/04/probando_deploy.md)
         * [Conociendo los Deployment](kubernetes/04/gestionando_deploy.md)
         * [Actualización Deployment](kubernetes/04/actualizacion_deploy.md)
-        * [Challenge-05](challenge/04/actividad5.md) 
-        * [Challenge-06](challenge/04/actividad6.md)  
-        * [Challenge-07](challenge/04/actividad7.md)               
+        * [Challenge-05](challenge/05/actividad5.md) 
+        * [Challenge-06](challenge/06/actividad6.md)  
+        * [Challenge-07](challenge/07/actividad7.md)               
 
   1. Distintos proyectos: Namespaces
         * [Namespaces](/kubernetes/05/ns.md)
@@ -77,7 +77,7 @@ escalabilidad, etc.
         * Pending...
 
   1. Challenge Final
-        * [Challenge onfire](/challenge-final/challenge.md)
+        * [Challenge onfire 🔥🔥](/challenge-final/challenge.md)
  
 
 ### 🔔 Importante: Se actualiza contenido a medida que avance el curso de kubernetes fundamentals
