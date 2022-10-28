@@ -18,7 +18,7 @@ spec:
      imagePullPolicy: Always
 ```
 
-Podemos crear directamente el Pod desde el fichero yaml:
+Podemos crear directamente el Pod desde el archivo yaml:
 
     kubectl create -f pod.yaml
 
@@ -83,7 +83,7 @@ Para obtener las etiquetas de los Pods que hemos creado:
 
     kubectl get pods --show-labels
 
-Las etiquetas las hemos definido en la sección metadata del fichero
+Las etiquetas las hemos definido en la sección metadata del archivo
 yaml, pero también podemos añadirlos a los Pods ya creados:
 
     kubectl label pods pod-nginx service=web --overwrite=true
