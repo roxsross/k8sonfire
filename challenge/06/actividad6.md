@@ -42,4 +42,4 @@ Para superar el desafio deberás entregar en un unico repositorio de github en f
 
 ### Si se animan a construir sus propias imagenes acá les dejo la fuente:
 
-[`Dockerfile k8s_test_web`](build/k8s_test_web/Dockerfile)
+[`Dockerfile k8s_test_web`](../../build/k8s_test_web/Dockerfile)

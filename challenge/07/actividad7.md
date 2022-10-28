@@ -40,7 +40,7 @@ Para superar el desafio deberás entregar en un unico repositorio de github en f
 
 ### Si se animan a construir sus propias imagenes acá les dejo la fuente:
 
-[`Dockerfile guestbook`](build/guestbook/Dockerfile)
+[`Dockerfile guestbook`](../../build/guestbook/Dockerfile)
 
 
 
