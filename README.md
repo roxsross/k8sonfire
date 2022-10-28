@@ -78,6 +78,14 @@ escalabilidad, etc.
 
   1. Challenge Final
         * [Challenge onfire 🔥🔥](/challenge-final/challenge.md)
+
+  1. Recursos
+        * [Cluster EKS - Fargate EKSCTL](/recursos/cluster/eksctl/cluster-fargate.yaml) 
+        * [Cluster EKS - Worker Nodes EKSCTL](/recursos/cluster/eksctl/cluster.yaml)
+        * [Cluster EKS - Terraform](/recursos/cluster/terraform/eks/main.tf) 
+        * [VPC - Terraform](/recursos/cluster/terraform/vpc/vpc.tf) 
+        * [SH Kubeconfig](/recursos/cluster/kubeconfig/kube.sh) 
+  
  
 
 ### 🔔 Importante: Se actualiza contenido a medida que avance el curso de kubernetes fundamentals
