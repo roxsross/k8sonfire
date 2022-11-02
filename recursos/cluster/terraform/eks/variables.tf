@@ -12,6 +12,7 @@ variable "cluster_name" {
 }
 variable "instance_type" {
   description = "AWS EC2 Instance type for Worker Nodes in Auto Scaling Group"
+  type = list
 }
 
 variable "environment" {

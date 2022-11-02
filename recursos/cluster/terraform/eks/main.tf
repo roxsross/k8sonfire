@@ -17,7 +17,7 @@ provider "kubernetes" {
 }
 
 locals {
-  cluster_name = "${cluster_name}"
+  cluster_name = var.cluster_name
 }
 
 module "eks" {
@@ -27,8 +27,8 @@ module "eks" {
   cluster_name    = "${local.cluster_name}"
   cluster_version = "1.22"
   cluster_endpoint_public_access  = true
-  vpc_id     = "${vpc_id}"
-  subnet_ids = "${application_subnets}"
+  vpc_id     = var.vpc_id
+  subnet_ids = var.application_subnets
 
   cluster_addons = {
     coredns = {
@@ -41,17 +41,17 @@ module "eks" {
   }
   eks_managed_node_group_defaults = {
     disk_size      = 30
-    instance_types = "${instance_type}"
+    instance_types = var.instance_type
   }
 
   eks_managed_node_groups = {
     blue = {}
     green = {
-      min_size     = 1
+      min_size     = 5
       max_size     = 10
-      desired_size = 1
+      desired_size = 5
 
-      instance_types = "${instance_type}"
+      instance_types = var.instance_type
       capacity_type  = "SPOT"
     }
   }
@@ -59,8 +59,8 @@ module "eks" {
   manage_aws_auth_configmap = true
 
     tags = {
-    Environment = "${environment}"
+    Environment = var.environment
     Terraform   = "true"
-    Owner       = "${team}"
+    Owner       = var.team
   }
 }

@@ -3,7 +3,7 @@ apiVersion: eksctl.io/v1alpha5
 kind: ClusterConfig
 
 metadata:
-  name: k8s-cluster
+  name: k8sonfire-cluster
   region: us-east-1
 
 iam:
@@ -20,8 +20,8 @@ addons:
 
 managedNodeGroups:
 - name: securityNodes
-  minSize: 2
-  maxSize: 3
+  minSize: 5
+  maxSize: 10
   volumeSize: 30
   instanceType: t3.medium
   amiFamily: AmazonLinux2
@@ -30,7 +30,7 @@ managedNodeGroups:
     nodegroup-role: worker
   ssh:
     allow: true
-    publicKeyName: securityms
+    publicKeyName: guru
 
 cloudWatch:
  clusterLogging:

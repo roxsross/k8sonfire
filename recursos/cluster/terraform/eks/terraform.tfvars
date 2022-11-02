@@ -1,6 +1,6 @@
-application_subnets     = ["subnet-066c74f483e2d9c71", "subnet-0fd82dc8d26a080d8"]
+application_subnets     = ["subnet-0698baa1f8d8dea77", "subnet-0d36b247270f5260d"]
 team                    = "DevOps Team"
 cluster_name            = "test-cluster"
-vpc_id                  = "vpc-0779df0527434c4fa"
+vpc_id                  = "vpc-0e8a781ff5a8da73a"
 environment             = "dev"
-instance_type           = "t3.medium"
+instance_type           = ["t3.medium"]
