@@ -22,7 +22,7 @@ Para exponer la API se creó un servicio tipo NodePort el cual expone un puerto 
 - Service de tipo Nodeport
 - Aplicarlos en el cluster eks
 - Tips: La app corre sobre el port=8000 y el consumer necesita http://service-flask-app
-- Pantallazo de los resultados
+- imagen de los resultados
 - En Clases *live* tienen que desplegar su desafio
 
 
