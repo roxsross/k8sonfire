@@ -74,10 +74,12 @@ escalabilidad, etc.
         * [Probando los Namespaces](kubernetes/05/gestionando_ns.md)
 
   1. Acceso a las aplicaciones: Services
-        * [Services](/kubernetes/065/ns.md)
+        * [Services](/kubernetes/06/ns.md)
         * [Trabajando con Services](kubernetes/06/trabajando_svc.md)
         * [Probando los Services](kubernetes/06/gestionando_svc.md)
         * [Ingress](kubernetes/06/ingress.md)
+        * [Challenge-08](challenge/08/actividad8.md) 
+        * [Challenge-09](challenge/09/actividad9.md)  
 
   1. Challenge Final
         * [Challenge onfire 🔥🔥](/challenge-final/challenge.md)
