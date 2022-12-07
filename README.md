@@ -74,7 +74,7 @@ escalabilidad, etc.
         * [Probando los Namespaces](kubernetes/05/gestionando_ns.md)
 
   1. Acceso a las aplicaciones: Services
-        * [Services](/kubernetes/06/ns.md)
+        * [Services](/kubernetes/06/svc.md)
         * [Trabajando con Services](kubernetes/06/trabajando_svc.md)
         * [Probando los Services](kubernetes/06/gestionando_svc.md)
         * [Ingress](kubernetes/06/ingress.md)
