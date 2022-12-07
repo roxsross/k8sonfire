@@ -43,7 +43,7 @@ escalabilidad, etc.
   1. Instalación de Kubernetes 
         * [Instalación kubectl](kubernetes/01/kubectl.md)
         * [Instalación minikube](kubernetes/01/minikube.md)
-        * [Alterativas k8s](kubernetes/01/alternativask8s.md)
+        * [Alternativas k8s](kubernetes/01/alternativask8s.md)
         * [Challenge-01](challenge/01/actividad1.md) 
 
   1. Contenedores en Kubernetes: Pods 
