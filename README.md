@@ -43,7 +43,7 @@ escalabilidad, etc.
   1. Instalación de Kubernetes 
         * [Instalación kubectl](kubernetes/01/kubectl.md)
         * [Instalación minikube](kubernetes/01/minikube.md)
-        * [Alterativas k8s](kubernetes/01/alternativask8s.md)
+        * [Alternativas k8s](kubernetes/01/alternativask8s.md)
         * [Challenge-01](challenge/01/actividad1.md) 
 
   1. Contenedores en Kubernetes: Pods 
@@ -74,7 +74,7 @@ escalabilidad, etc.
         * [Probando los Namespaces](kubernetes/05/gestionando_ns.md)
 
   1. Acceso a las aplicaciones: Services
-        * [Services](/kubernetes/06/ns.md)
+        * [Services](/kubernetes/06/svc.md)
         * [Trabajando con Services](kubernetes/06/trabajando_svc.md)
         * [Probando los Services](kubernetes/06/gestionando_svc.md)
         * [Ingress](kubernetes/06/ingress.md)
